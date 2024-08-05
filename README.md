@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=DivyaJain96&icon=4&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m currently learning **DSA**
@@ -23,8 +23,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DivyaJain96&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- 
 ---
-[![](https://visitcount.itsvg.in/api?id=DivyaJain96&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DivyaJain96&icon=4&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
