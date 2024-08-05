@@ -9,6 +9,9 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
+## About Me
+I am a passionate Software Developer. My primary expertise in using Spring Boot and Java to build robust, scalable applications and web applications. I take pride in solving complex problems and continually seek out new learning opportunities to enhance my skills. I’m always excited to work on new projects. In addition to my technical abilities, I have experience with SQL databases and am adept at optimizing queries for performance. I enjoy collaborating with teams to create innovative solutions and thrive in environments where continuous improvement is encouraged. My passion for technology drives me to stay updated with the latest industry trends and best practices.Outside of work, I enjoy exploring new technologies, participating in coding challenges, and contributing to open-source projects. I’m always eager to take on new challenges and am committed to delivering high-quality software solutions.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyajain9649) 
 
